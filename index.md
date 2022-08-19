@@ -1,3 +1,5 @@
+<h3>URL 重定向中</h3>
+
 <script>
 // https://embypublic.github.io/index.html?url-schema=[经过 encodeURIComponent 编码的 URL Schema]
 
